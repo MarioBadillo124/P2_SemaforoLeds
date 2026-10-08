@@ -108,7 +108,7 @@ Activación del entorno virtual y ejecución del script en la terminal:
 
 Edición del código en `nano`:
 
-![Editor nano](imagenes/nano.jpeg)
+![Editor nano](imagenes/semaforo.jpeg)
 
 Durante la ejecución la consola muestra la secuencia `LED VERDE`, `LED AMARILLO` y `LED ROJO`. Al presionar `Ctrl + C` el programa se detiene y limpia los pines.
 
