@@ -46,7 +46,7 @@ P2_SemaforoLeds/
 ├── README.md
 └── images/
     ├── terminal.jpeg
-    ├── nano.jpeg
+    ├── semaforo.jpeg
     ├── 1.jpeg
     ├── 2.jpeg
     └── 3.jpeg
